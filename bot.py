@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import telebot
 token = '1469789335:AAHtRcVSuRvphCppLp57jD14kUY-uUhG99o'
 bot = telebot.TeleBot(token)
